@@ -78,8 +78,6 @@ salary-prediction/
 ### 7. Evaluate the Model
 
 
-## 📈 Data Visualization
-
 ## 🔍 Example Prediction
 
 ```python
@@ -99,20 +97,6 @@ Predicted Salary: 92000
 
 ---
 
-## 📏 Model Evaluation
-
-### R² Score
-
-The R² score measures how well the model fits the data.
-
-| R² Score | Performance |
-|-----------|------------|
-| 1.0 | Perfect Fit |
-| 0.9 - 1.0 | Excellent |
-| 0.7 - 0.9 | Good |
-| Below 0.7 | Needs Improvement |
-
----
 
 ## 🚀 Future Improvements
 
