@@ -77,25 +77,8 @@ salary-prediction/
 
 ### 7. Evaluate the Model
 
-```python
-score = r2_score(y_test, predictions)
-print("R² Score:", score)
-```
-
----
 
 ## 📈 Data Visualization
-
-```python
-plt.scatter(X, y)
-plt.plot(X, model.predict(X))
-plt.xlabel("Years of Experience")
-plt.ylabel("Salary")
-plt.title("Salary Prediction using Linear Regression")
-plt.show()
-```
-
----
 
 ## 🔍 Example Prediction
 
@@ -140,18 +123,6 @@ The R² score measures how well the model fits the data.
   - Skills
   - Company Size
 
-- Use advanced algorithms:
-  - Random Forest Regressor
-  - XGBoost
-  - Gradient Boosting
-  - Neural Networks
-
-- Deploy the model using:
-  - Flask
-  - Django
-  - Streamlit
-
----
 
 ## 🎓 What I Learned
 
